@@ -21,6 +21,6 @@ number_recover = span_recover.get_text()
 
 
 
-print ("Number Of Corona Virus Cases:  " +  number_recover)
-print("Number Of Corona Virus Deaths: " + number_cases)
-print("Number Of Corona Virus Recovers: " + number_death)
+print ("Number Of Corona Virus Cases:  " +  number_cases)
+print("Number Of Corona Virus Deaths: " + number_death)
+print("Number Of Corona Virus Recovers: " + number_recover)
